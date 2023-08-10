@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  microservices:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-10T06:21:39.563173638Z"
+    description: A Helm chart for Kubernetes
+    digest: ae677d3dac1c74fa0e6f839d6be892bc3a96579dadd3c14a67327b3bd97874dd
+    name: microservices
+    type: application
+    urls:
+    - https://github.com/daborpe/microservices/releases/download/microservices-0.0.3/microservices-0.0.3.tgz
+    version: 0.0.3
+generated: "2023-08-10T06:21:39.563181738Z"
